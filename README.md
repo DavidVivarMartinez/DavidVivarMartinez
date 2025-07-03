@@ -70,7 +70,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVivarMartinez&theme=react&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=DavidVivarMartinez&theme=react&hide_border=true" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DavidVivarMartinez&show_icons=true&theme=react&hide_border=true" alt="readme stats" />
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVivarMartinez&layout=compact&theme=react&hide_border=true" alt="top langs" />
