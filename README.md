@@ -48,14 +48,17 @@
 
 <h2 align="center">🎮 Proyectos Destacados</h2>
 
-- 🧙‍♂️ **Sistema RPG Personalizado (WoW-Inspired)**  
+- **Sistema RPG Personalizado (WoW-Inspired)**  
   Árboles de talentos, razas, clases, HUD dinámico, combate, objetos y más — todo en React + Context.
 
-- 🏋️‍♂️ **DMPC ProFit (Plataforma de nutrición y deporte)**  
+- **DMPC ProFit (Plataforma de nutrición y deporte)**  
   App completa con usuarios, profesionales, planes personalizados, eventos, pagos y dashboards.
 
-- 🧾 **API de tareas y contactos**  
+- **API de tareas y contactos**  
   Proyectos de práctica con Flask, React, CRUD, fetch y lógica asincrónica.
+  
+- **Pagina para empresa de shows de iluminacion**  
+  Pagina para clientes donde pueden ver como trabaja dicha empresa.
 
 ---
 
