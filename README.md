@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola%2C+soy+David+Vivar!;Full-Stack+Developer;" />
 </h1>
 
-<h3 align="center">Desarrollador Full Stack y creador de experiencias interactivas con código ⚔️</h3>
+<h3 align="center">Desarrollador Full Stack y creador de experiencias interactivas con código </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente trabajando en **DMPC ProFit** y un **sistema RPG estilo WoW**
+ Actualmente trabajando en **DMPC ProFit** y un **sistema RPG estilo WoW**
 
- 🌱 Aprendiendo y profundizando en **React, Flask, Spring Boot, MySQL, y más**
+ Aprendiendo y profundizando en **React, Flask, Spring Boot, MySQL, y más**
 
- 🎯 Enfocado en crear plataformas completas que combinan diseño, lógica y gamificación
+ Enfocado en crear plataformas completas que combinan diseño, lógica y gamificación
 
- ⚡ Fun fact: *Las capas de la Guardia de la Noche de Juego de Tronos están hechas con alfombras de Ikea*
+ Fun fact: *Las capas de la Guardia de la Noche de Juego de Tronos están hechas con alfombras de Ikea*
  
 </div>
 
