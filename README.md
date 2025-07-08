@@ -10,13 +10,14 @@
 
 <div align="center">
  
- Actualmente trabajando en **DMPC ProFit** y un **sistema RPG estilo WoW**
+🎯 Actualmente trabajando en
+DMPC ProFit, una plataforma integral de salud y entrenamiento personalizada, y en el desarrollo de un sistema RPG inspirado en World of Warcraft, combinando elementos de lógica, diseño y gamificación.
 
- Aprendiendo y profundizando en **React, Flask, Spring Boot, MySQL, y más**
+📚 En constante formación, profundizando en tecnologías como React, Flask, Spring Boot, MySQL y otras herramientas modernas del ecosistema web.
 
- Enfocado en crear plataformas completas que combinan diseño, lógica y gamificación
+🛠️ Apasionado por crear experiencias completas, donde el frontend, el backend y la experiencia del usuario se integran de forma coherente y efectiva.
 
- Fun fact: *Las capas de la Guardia de la Noche de Juego de Tronos están hechas con alfombras de Ikea*
+💡 Curiosidad geek: Las capas de la Guardia de la Noche en Juego de Tronos fueron hechas con alfombras de IKEA.
  
 </div>
 
